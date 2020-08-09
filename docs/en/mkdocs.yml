@@ -30,6 +30,7 @@ nav:
   - it: /it/
   - pt: /pt/
   - ru: /ru/
+  - uk: /uk/
   - zh: /zh/
 - features.md
 - python-types.md
@@ -110,6 +111,7 @@ nav:
   - advanced/testing-events.md
   - advanced/testing-dependencies.md
   - advanced/testing-database.md
+  - advanced/async-tests.md
   - advanced/settings.md
   - advanced/conditional-openapi.md
   - advanced/extending-openapi.md
